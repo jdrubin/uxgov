@@ -1,0 +1,63 @@
+Sample 3 - RFI
+
+1.  Background
+
+<Insert agency business goals and project bnackground>
+
+2.  Purpose
+This RFI is intended to assist the  **<AGENCY NAME>** in its review of End User Experience Monitoring Tools. If successful, this RFI will provide the  **<AGENCY NAME>**  with a better understanding of the technical capabilities offered by End User Experience  Monitoring Tools and allow  **<AGENCY NAME>**  to refine its requirements for selecting an End User Experience Monitoring Tool.
+The ultimate goal of the **<PRODUCT NAME>** is to tell us whether an application that is supporting the business is slowing down, and to provide us with tools and directon for solving the application performance problems.
+
+3.  Request For Information (RFI)
+This is a Request for Information (RFI) only. Any and all information requested in response to this RFI is for Market Research Purposes only.  In accordance with FAR 15.201 (e), responses to this notice are not offers and cannot be accepted by the government to form a binding contract. The government is under no obligation to issue a solicitation or to award any contract on the basis of this RFI. All costs associated with responding to this RFI will be the sole responsibility of the contractor. All submissions to this RFI will be treated as business materials, become government property and will not be returned.
+
+Appendix A:  High Level Requirements
+ITS manages a portfolio of business applications that are hosted in the data center on Capitol Hill. Office of Strategic Initiatives/Information Technology Services is seeking to broaden its understanding of tools in the marketplace that can assist us in improving the end user experience, and assist in monitoring application performance.
+
+In a recent report the term application is described as a set of algorithms with the following five characteristics:
+
+The end user initiates a request, which triggers the execution of the software and hardware components used to respond to the request.
+Some of the steps in the execution are defined and sequenced by business logic, as opposed to the computer system logic.
+The software algorithms work with one another as they execute.  The results are compiled and assembled into a resultant set of data.
+The resultant data is delivered by using hardware and software to the user in a well-defined computer interface.
+If the algorithms complete their execution successfully, then they achieve well defined goals that meet the established requirements of some end users or end-user communities.
+
+The report also continues to explain End User Experience Monitoring which is the most high-level metric of the “Five-Dimensional Framework” as:
+
+Tracking, in real time, the execution of the software algorithms that constitute an application
+Measuring and reporting on the finite hardware and software resources that are allocated to be consumed as the algorithms execute
+Determining whether the application executes successfully according to the application owner
+Recording the latencies associated with some of the execution step sequences
+Determining why an application fails to execute successfully, or why resource consumption and latency levels depart from expectations
+
+<SKIPPING SECTIONS>
+
+Appendix B:  Information Requested
+
+Part 1.  Business Information
+Name of Organization:
+Past federal experience:  Has the organization implemented End User Experience Monitoring Tools at other federal agencies?  If so, identify the agency and provide the following information on similar installations completed in the last 2 years (maximum three):
+Name of the client, phone number and estimated value of the contract
+Contract type (Firm Fixed Price, Time and Materials, etc.)
+Name and project point at organization
+Description of project
+Capabilities:  Describe the qualifications/skills the organization possesses to provide the implementation of an End User Experience Monitoring Tool as described in the RFI.  This can include the following:
+Previous experience implementing or assisting with installation of an End User Experience Monitoring Tool
+Prior experience working with the **<AGENCY NAME>**
+
+Part 2.  Recommend Solution
+1. Recommend a COTS solution to achieve the objectives of the requirements stated in the RFI.  Also include a drawing of the proposed system architecture. 
+2. Provide a cost estimate for the recommended solution(s) including the following elements:
+- Product implementation costs. 
+- Required hardware and software and associated costs.
+- Product cost structure:  include licensing costs, maintenance/upgrade costs, and any other applicable costs.
+- Administrator and user training costs.
+
+3. Provide a set of best practices for successful implementation of an End User Experience    Monitoring Tool.
+4. Provide an estimated timeline for implementation of an End User Experience Monitoring Tool.
+5. Provide a detailed list of all requirements needed from the **<AGENCY NAME>**
+6. Page Limitations: The total page limitation for your response to this End User Experience Monitoring Tool. RFI may not exceed fifty (50) pages.  The total page limitation does not include cost.  Cost data has no page limitation.
+7. Vendor Supporting Rationale: 
+The RFI responses will be evaluated strictly in accordance with its written content. RFI responses which merely restate the requirement or state that the requirement will be met, without providing supporting rationale, may (or may not) deemed ineligible to participate or compete further in any subsequent solicitation or receive consideration of responses to any subsequent pre-solicitation synopsis.
+8. Unnecessarily Elaborate Responses:  
+Unnecessarily elaborate brochures or other presentations beyond those sufficient to present a complete and effective response to this solicitation are not desired and may be construed as an indication of the Offeror's lack of cost consciousness.  Elaborate artwork, expensive paper and bindings, and expensive visual and other presentation aids are neither necessary nor desired.

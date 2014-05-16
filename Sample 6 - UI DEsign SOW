@@ -1,0 +1,162 @@
+Sample 6 - UI DEsign SOW
+
+2.0 Purpose
+The purpose of this procurement is to acquire services and products for the development of various
+user interface design(s) projects at the **<AGENCY NAME>** for new or existing IT system(s) incorporating a user
+centered design approach maximizing stakeholder input into each stage.
+The first task will support a critical element of the Trademark organization that the offeror consider
+the enterprise architecture currently being developed for **<AGENCY NAME>**.  This
+will ensure that the user interface is compatible with the proposed structure and meets all
+government-wide statutory requirements, such as 508 compliancy. This new architecture will also
+allow the new interface to be developed utilizing the newest tools and techniques as well as assist in
+replacing or modernizing existing systems.
+Task orders will be generated based upon approved projects with separate technical monitors
+assigned to track, monitor, and approve invoices for the projects supported by the Contracting
+Officer Representative (COR).
+
+Analysis is defined as:
+ Assemble a multidisciplinary team capable of performing research or studies to identify
+business needs and requirements. This may include prototyping specific scenarios to validate
+technologies and processes for the organization to ensure that all stakeholder requirements
+are being considered.
+
+Design is defined as:
+ Develop artifacts for communicating with stakeholders. Create a prototype(s) of the entire
+interface or select portions, if applicable. This should provide a functional replica without
+incurring the expense of full development to:
+ Provide designed, functional products that can be usability tested
+ Provide functional products that can be used to gather stakeholder and advisory committee
+feedback on features, functionality, and design
+ Provide design products that can be iterated to solve design issues prior to start of
+engineering
+ Develop artifacts for communication with stakeholders about the design, at all stages of the
+design process (wireframes, storyboards, low-fidelity prototypes, graphic design, etc.).
+These artifacts can include paper prototypes, video, web-accessible, clickable prototypes, and
+other materials.
+ Iterate as necessary
+ Create a design specification
+
+Development, Modernization, and Enhancement is defined as:
+ Create or modernize a new or existing IT system based on user centered design and research
+to meet a business need or solve a business problem. This may include replacing,
+modernizing or enhancing IT systems that already exist.
+
+2.1 OBJECTIVE
+The objective of this effort is to provide support for various projects at the **<AGENCY NAME>** including an
+integrated user interface design(s) to support the Trademark examination and registration
+processes. The resulting user interface must be flexible enough to scale to support both internal and
+external users.
+
+4.0 Scope of Work
+The scope of this contract includes multiple award IDIQ Contracts is support of various tasks in
+support of the **<AGENCY NAME>** mission including: 1. Trademarks Next Generation Support Activities
+2. Application Portal 3. Tools for the **<AGENCY NAME>** as well as other User Interface/Centered
+Support Services to be performed.
+4.1 Project Considerations
+The contractor(s) shall assist with the project in designing the user design experience with the
+following minimum considerations. The steps below may be employed in some cases and not
+utilized in others. The areas will be repeated as necessary for the development of the interfaces for
+different parts of the examination and related processes and may include additional requirements as
+they are identified.
+
+4.1.1 Analysis Phase
+The contractor will review the results of user research already conducted by the government, as well
+as other relevant material about the **<AGENCY NAME>** processes and the design of current systems.
+If necessary, the contractor will conduct and organize additional user research.
+This work may include performing the following recommended activities:
+ Assemble a multidisciplinary team to ensure complete expertise
+ Review results of user research
+ Meet with key stakeholders to set vision
+ Organize and analyze user feedback
+ Develop or refine existing usability goals and objectives
+ Develop or refine existing user personas
+ Develop or refine existing task analyses
+ Develop or refine user scenarios and capabilities
+ Evaluate and recommend phased approaches to dissolve silo systems
+ Communicate concepts
+ Support Services in Support of other activities at the **<AGENCY NAME>**. (optional)
+
+4.1.2 Design Phase
+The contractor will utilize the information gathered from the analysis phase to design a user interface
+that is based on user-centered methodologies.
+This work may include performing the following recommended activities:
+ Design a user interface for trademark attorneys, managers, support staff, and other
+stakeholders that meet standard usability criteria (learnability, efficiency, memorability, error
+reduction, and user satisfaction) and that meet special criteria as determined by internal user
+research (fast, simple, flexible, configurable, one interface, promotes collaboration and
+communication, and supports integration of advanced tools such as intelligent search
+analysis, supports data validation and auto-fill, and supports alerts and notifications and the
+ability to handle various types and forms of attachments).
+ Design the interface using an iterative, user-centered process with the expectation that
+stakeholders will review and comment on designs, and those designs will be adjusted and retested
+until satisfactory results are obtained. Much of the usability testing will be done by
+government workers although the contractor will in some cases do usability testing as well.
+ Design at least one interface but not more than two for review. Stakeholders will evaluate
+each design, selecting the one that meets or exceeds the user identified
+requirements/expectations for continued development. The government reserves the right
+not to continue development of any proposed design during any phase.
+ Develop artifacts for communication with stakeholders about the design, at all stages of the
+design process (wireframes, storyboards, prototypes, graphic design, and so on). These
+artifacts can include paper prototypes, video, web-accessible clickable prototypes, and other
+materials. Artifacts that can be posted online will be emphasized in order to increase the
+stakeholder feedback.
+ Draft wireframes, storyboards and/or navigation models that document the design.
+Develop prototype(s) to demonstrate a variety of GUI technologies to address Trademarks’
+current interface concerns.
+ Guide or conduct usability testing, surveys, and other forms of obtaining feedback on
+prototype(s) where applicable.
+ Design, evaluate, and write software requirements for additional functionality associated with
+user research results.
+ Create a draft prototype of the approved design.
+ Draft detailed design(s) specification.
+ Draft artifacts for communicating with stakeholders about the design, including video, web
+accessible click-through designs, paper posters and prototypes, etc.
+ Conduct ongoing reviews with the **<AGENCY NAME>** team to ensure designs are technically feasible.
+ Draft design style guides for the UI design and the visual design. These are to include:
+o Articulating rules and guidelines with respect to the user interface design of new
+functionality
+o Articulating rules and guidelines for visual elements such as button styles, color usage,
+font usage, etc.
+o Provide a method for keeping the application consistent from a usability perspective
+when it is modified or when new features and/or functionality is added.
+ Submit a final prototype and design specifications for acceptance.
+Analysis for projects listed in Section 1.1 (optional).
+
+4.1.3 Implementation Phase (Optional)
+The contractor may assist during the implementation phase to assure that the design continues to
+incorporate the user interface characteristics identified during the analysis and design phases. The
+selected contractor may either implement the design and/or provide support to other contractor(s) to
+ensure that all system interfaces continue to be developed utilizing user centered design
+methodologies.
+This work may include performing the following recommended activities:
+ After the approved core has been approved, guide or conduct ongoing development and/or
+evaluations of pilots
+ Draft proposed migration plan and draft schedule(s) for implementation
+ Prepare all required artifacts for implementation in accordance with **<AGENCY NAME>** and guidelines
+ Perform final usability testing and validate requirements for each system(s) being
+implemented.
+ Activities in support of other user interface activities at the **<AGENCY NAME>**. (Optional)
+
+4.2 Criteria for New User Interface(s)
+Final user interface designs must meet the following criteria:
+ Support office-specific usability goals of speed, simplicity, flexibility, configurability, and
+integration of functionality.
+ Support standard usability goals of: learnability, efficiency, memorability, error reduction,
+and user satisfaction.
+ Support the ability to add various content types of attachments including ability to highlight
+and tag.
+ Present large amounts of textual information in a clear, uncluttered, scalable manner.
+ Be aesthetically pleasing, flexible and configurable, so that individuals can tailor the interface
+to their needs.
+ Be easily modifiable so that additional functionality can be added or existing functionality
+removed, while remaining easy to use.
+ Support remote work for a nationwide work force.
+Be able to interface well with Commercial off-the-shelf (COTS) products that have welldefined
+Application Programming Interface (APIs).
+ Support accessibility to a high degree, going beyond 508-compliance to support audio input
+and output and/or other technologies that improve accessibility.
+ Provide keyboard or other non-audio shortcuts for skilled users.
+ Incorporate an adaptible, extensible and uniform design in order to be able to incorporate
+advanced technologies such as touch screen interfaces, 3D interfaces, and mobile devices.
+
+

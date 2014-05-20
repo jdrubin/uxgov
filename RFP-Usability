@@ -1,4 +1,4 @@
-### Resources to improve RFP usability
+## Resources to improve RFP usability ##
 
 Decision tree
 
@@ -27,30 +27,37 @@ Request for proposal (RFP) - Used for XXXX
 
 1. Discovery (early stage activities, collect user data)
 
-Stakeholder Objectives, Discovery and Analysis 
-Activity:  Analyze and Document Stakeholder Objectives
-Activity: Usage Analysis  <if this project is an enhancement to an existing system>  
-Activity: Analyze Application Usage and Feedback Data)
-Usability Base-lining <if this project is an enhancement to an existing system> 
+A. Stakeholder Objectives, Discovery and Analysis 
+ Activity:  Analyze and Document Stakeholder Objectives
+ Activity: Usage Analysis  <if this project is an enhancement to an existing system>  
+ Activity: Analyze Application Usage and Feedback Data)
+ 
+B. Usability Base-lining <if this project is an enhancement to an existing system> 
 Activity: Conduct Baseline Usability Test 
-User Research
+
+C. User Research
  Activity: Conduct Contextual Interviews
  Activity: Conduct End-User Interviews 
  
-2. Define (Refine collected data and focus it into design)
-User Role and Task Analysis
+*2. Define (Refine collected data and focus it into design)
+
+A. User Role and Task Analysis
 Activity:  Create User Profiles and Role Models
 Activity: Activity:  Create Task and Role Model
 Activity: Prioritize User Needs and Create Product Road Map
-Iterative Interaction Design
+
+B. Iterative Interaction Design
 Activity:  Develop User Interaction Wireframes
-Visual Design
+
+C. Visual Design
 Activity:  Develop Visual Design
 
 3. Develop (create and test system)
-Development and QC Support
+
+A. Development and QC Support
 Activity:  Support Development  
-Usability Assessments
+
+B. Usability Assessments
 Activity:  Support Testing
 Activity: Assess Usability
 
